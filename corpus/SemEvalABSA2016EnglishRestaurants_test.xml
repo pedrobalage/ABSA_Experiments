@@ -355,7 +355,7 @@
           <word id="7" form="the" from="31" to="34" base="the" postag="DT" ner="O" opinion="false" head="8" deprel="det"/>
           <word id="8" form="food" from="35" to="39" base="food" postag="NN" ner="O" opinion="true" head="5" deprel="nmod" polarity="negative"/>
           <word id="9" form="at" from="40" to="42" base="at" postag="IN" ner="O" opinion="false" head="10" deprel="case"/>
-          <word id="10" form="Pagoda" from="43" to="49" base="Pagoda" postag="NNP" ner="O" opinion="false" head="8" deprel="nmod"/>
+          <word id="10" form="Pagoda" from="43" to="49" base="Pagoda" postag="NNP" ner="LOCATION" opinion="false" head="8" deprel="nmod"/>
           <word id="11" form="." from="49" to="50" base="." postag="." ner="O" opinion="false" head="5" deprel="punct"/>
         </tokens>
       </sentence>
@@ -14025,7 +14025,7 @@
           <word id="1" form="Sit" from="0" to="3" base="Sit" postag="NNP" ner="O" opinion="false" head="0" deprel="root"/>
           <word id="2" form="in" from="4" to="6" base="in" postag="IN" ner="O" opinion="false" head="4" deprel="case"/>
           <word id="3" form="the" from="7" to="10" base="the" postag="DT" ner="O" opinion="false" head="4" deprel="det"/>
-          <word id="4" form="Balcony" from="11" to="18" base="balcony" postag="NN" ner="O" opinion="true" head="1" deprel="nmod" polarity="positive"/>
+          <word id="4" form="Balcony" from="11" to="18" base="balcony" postag="NN" ner="LOCATION" opinion="true" head="1" deprel="nmod" polarity="positive"/>
         </tokens>
       </sentence>
       <sentence id="en_CatalRestaurant__UvaBar_477862052:1">
